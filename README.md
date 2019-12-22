@@ -1,5 +1,5 @@
 # Monocyte-Phagocytosis-Assay
-Protocol and shiny app for analysis of in vitro phagocytosis data 
+Protocol and user interface for analysis of in vitro phagocytosis data collected via confocal microscopy.
 
 Please cite:
 
